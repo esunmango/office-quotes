@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>New Tab</title>
+        <link rel="stylesheet" href="css/todoList.css" />
+        <link href="https://fonts.googleapis.com/css?family=Bad+Script" rel="stylesheet"/>
+	<style>
+		@font-face {
+		    font-family: 'quote'; /*a name to be used later*/
+		    src: url('font/quot.ttf'); /*URL to font*/
+		}
+                
+                @font-face {
+		    font-family: 'epic'; /*a name to be used later*/
+		    src: url('font/epic.ttf'); /*URL to font*/
+		}
+
+		#qout{
+			 font-family: 'Bad Script', cursive;
+			 font-size: 60px;
+		}
+		
+		#by{
+			font-family: 'epic';
+			font-size: 60px;
+			
+			}
+
+		  html {
+                height:100%;
+                width:100%;
+                 padding:0;
+                margin:0;
+            }
+            body{
+                padding:0;
+                margin:0;
+            }
+            #img{
+                    display: block;
+				position: absolute;
+				width: 100%;
+				bottom: 0;
+				left: 0;
+				right: 0;
+            }
+            .contenedor {
+                position: absolute;
+                top: 60%;
+                left: 50%;
+                width: 800px;
+                height:800px; 
+                margin-left: -400px; 
+                margin-top: -400px;
+                color:#fff;
+                font-family: sans-serif;
+                text-shadow: 0px 0px 8px #000000;
+                z-index: 1000;
+                }
+                
+                
+                .circle { 
+    border-radius:50%;
+    position:absolute;
+}
+
+.scene {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  overflow: hidden;
+  right: 0;
+  height: 100%;
+}
+
+.scene > div {
+  /*position: absolute;*/
+  bottom: 0;
+}
+
+.scene > div.back {
+  width: 80%;
+  left: 50%;
+  /*margin-left: -447px;*/
+  /*height: 255px;*/
+  bottom: 250px;
+}
+
+.scene div.meed {
+  width: 90%;
+  /*height: 174px;*/
+  z-index: 100;
+  left: 50%;
+  bottom: 20px;
+  /*margin-left: -454px;*/
+}
+
+.scene div.front {
+  width: 90%;
+  /*height: 37px;*/
+  z-index: 200;
+  left: 50%;
+  bottom: 20px;
+  /*margin-left: -482px;*/
+}
+
+                
+	</style>
+</head>
+<body>
+    
+    <div class="scene">
+
+  <div data-offset="10" class="back parallax" id="back"></div>
+  <div data-offset="40" class="meed parallax" id="meed"></div>
+  <div data-offset="100" class="front parallax" id="front"></div>
+    </div>
+        <div class="contenedor">
+            <h1 id="qout"></h1>
+            <h4 style="float: right"><i id="by" ></i></h4>
+        </div>
+	
+    <!--
+    <div id="todoList">
+        <div id="myDIV" class="header">
+        <h2>Mi lista de pendientes</h2>
+        <input type="text" id="myInput" placeholder="Titulo...">
+        <span onclick="newElement()" class="addBtn">Add</span>
+      </div>
+
+      <ul id="myUL">
+        <li>Programar</li>
+      </ul>
+    </div>
+    -->
+	<script src="js/jquery-2.0.0.min.js" type="text/javascript"></script>
+	<script src="js/main.js" type="text/javascript"></script>
+</body>
+</html>

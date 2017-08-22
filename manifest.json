@@ -1,0 +1,15 @@
+{
+   "chrome_url_overrides": {
+      "newtab": "index.html"
+   },
+   "description": "Office quotes",
+   "icons": {
+      "128": "img/icon.gif",
+      "16": "img/icon.gif",
+      "48": "img/icon.gif"
+   },
+   "manifest_version": 2,
+   "name": "Office quotes",
+   "permissions": [ "storage", "unlimitedStorage"],
+   "version": "0.6.0"
+}
