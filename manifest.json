@@ -11,5 +11,5 @@
    "manifest_version": 2,
    "name": "Office quotes",
    "permissions": [ "storage", "unlimitedStorage"],
-   "version": "0.6.0"
+   "version": "0.6.3"
 }

@@ -184,11 +184,20 @@ var json = [{quot:"Me empezaron a rechinar las nalgas",by:"El Victor L."}
     ,{quot:"¿Porque cuando los perros andan en celo... Nosotros no nos calentamos ?",by:"El Armando"}
     ,{quot:"Ya se venia viniendo",by:"El Victor L."}
     ,{quot:"Un tanquecito de esos de leña",by:"El Chuy"}
-    ,{quot:"¿Y se mato adrede?, ¿O como se dice aldrede con d",by:"El Albert"}
+    ,{quot:"¿Y se mato adrede?, ¿O como se dice aldrede con R",by:"El Albert"}
     ,{quot:"Frijoles meados",by:"El Maestro"}
     ,{quot:"¿Como se abrevia tijuana? ¿TJ-uana?",by:"El Juanito"}
     ,{quot:"¿Cuanto cuesta un DVD Blu-ray?",by:"El Albert"}
     ,{quot:"¿Es tuyo o lo compraste?",by:"El Cesar"}
+    ,{quot:"¿Por qué le habrán puesto enchiladas Suizas si las hacen en México?",by:"El Jack"}
+    ,{quot:"Invernáculo es un invernadero para el culo",by:"El Chuy"}
+    ,{quot:"Esa morra se puede parar sin manos",by:"El Victor L."}
+    ,{quot:"Hace mucho tiempo que nunca he comido caviar",by:"El Juanito"}
+    ,{quot:"¿Vamos por un café? Porque se me alboroto el prepucio",by:"El Chuy"}
+    ,{quot:"Se murieron los infartos",by:"El Erick"}
+    ,{quot:"Somos los Pacox porque Fedex",by:"EL Paco"}
+    ,{quot:"¿Como se llama el de los XV años?... ¿El principe azul?",by:"El Mango"}
+    ,{quot:"Yo solo me siento, como y me salgo",by:"El Paco"}
    ];
 
 function generateColor(){
