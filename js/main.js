@@ -170,7 +170,7 @@ var json = [{quot:"Me empezaron a rechinar las nalgas",by:"El Victor L."}
     ,{quot:"Anoche no tenia sueño y escribí un libro",by:"El Paco"}
     ,{quot:"El arroz tiene cara de Verga",by:"El Vic"}
     ,{quot:"El hoyo fecal",by:"El Victor L"}
-    ,{quot:"El desenrollo y el desenlace",by:"El Vic"}
+    ,{quot:"El desenrollo y el desenlace",by:"El Victor L."}
     ,{quot:"Tiene un sensor de quitador de pila",by:"El Vic"}
     ,{quot:"Se quedo en modo conservación",by:"El Chuy"}
     ,{quot:"El ano dentado", by:"El Chuy"},
@@ -181,7 +181,6 @@ var json = [{quot:"Me empezaron a rechinar las nalgas",by:"El Victor L."}
     ,{quot:"No tienen intolerancia",by:"El Erick"}
     ,{quot:"Todo termino Abruscamente",by:"El Jack"}
     ,{quot:"Esta lloviendo como cuando calló el Tsunami",by:"El Jack"}
-    ,{quot:"¿Porque cuando los perros andan en celo... Nosotros no nos calentamos ?",by:"El Armando"}
     ,{quot:"Ya se venia viniendo",by:"El Victor L."}
     ,{quot:"Un tanquecito de esos de leña",by:"El Chuy"}
     ,{quot:"¿Y se mato adrede?, ¿O como se dice aldrede con R",by:"El Albert"}
@@ -198,6 +197,18 @@ var json = [{quot:"Me empezaron a rechinar las nalgas",by:"El Victor L."}
     ,{quot:"Somos los Pacox porque Fedex",by:"EL Paco"}
     ,{quot:"¿Como se llama el de los XV años?... ¿El principe azul?",by:"El Mango"}
     ,{quot:"Yo solo me siento, como y me salgo",by:"El Paco"}
+    ,{quot:"Un dia sin sistema pero mil años de sabiduría",by:"El Paco"}
+    ,{quot:"No traigo dinero porque no dormí",by:"El Paco"}
+    ,{quot:"Keyboard not found, Press F1 to continue",by:"El Windows"}
+    ,{quot:"Hijos de la Real Academia de la Chingada",by:"El Chuy"}
+    ,{quot:"Hablando de pavos y coconos se me antojo una Torta",by:"El Victor L."}
+    ,{quot:"Y que me mio Tere",by:"El Jack"}
+    ,{quot:"El tecladiscos",by:"El Chuy"}
+    ,{quot:"Pinche Viejito con el cuello aguado",by:"El Victor L."}
+    ,{quot:"Es del cartel de Molotov",by:"El Jack"}
+    ,{quot:"El Ñu entra en celo cada 45 días",by:"El Jack"}
+    ,{quot:"Y cómo deshacerte de ti",by:"El Vic Arjona"}
+    ,{quot:"¿Como se llama el grupo de capacitación ?...¿Diseño?",by:"La Aracely"}
    ];
 
 function generateColor(){
