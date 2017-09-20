@@ -209,6 +209,55 @@ var json = [{quot:"Me empezaron a rechinar las nalgas",by:"El Victor L."}
     ,{quot:"El Ñu entra en celo cada 45 días",by:"El Jack"}
     ,{quot:"Y cómo deshacerte de ti",by:"El Vic Arjona"}
     ,{quot:"¿Como se llama el grupo de capacitación ?...¿Diseño?",by:"La Aracely"}
+    ,{quot:"Haber bajate para abajo",by:"El Victor L."}
+    ,{quot:"Internet Ilimitado (no tenia internet)",by:"La Aracely"}
+    ,{quot:"¿Es crossfit porque cargabas cruces?",by:"El Mango"}
+    ,{quot:"¿Porque si ticket se escribe con C y K, Chrome te lo pone mal?",by:"El Paco"}
+    ,{quot:"Hasta ahorita me va cayendo el bisnes veinte",by:"El Paco"}
+    ,{quot:"Si me dieran un peso por cada vez que se me olvida esta madre... Tendría un peso",by:"El Chuy"}
+    ,{quot:"Osea puede que este bien, pero esta mal",by:"El Mango"}
+    ,{quot:"Que chidote!!!... ¿Qué es?",by:"El Drakun"}
+    ,{quot:"¿Entonces 200 segundos son 2 minutos?",by:"El Mango"}
+    ,{quot:"Le puso retrun",by:"El Vic"}
+    ,{quot:"Te iba a dijir",by:"El Victor L."}
+    ,{quot:"Si como lo mueves lo bates, hazme guacamole el chocolate",by:"El Jack"}
+    ,{quot:"Cuando conozco a un hombre guapo, me gusta chuparle la verga para ver si sabe igual de bonito que el",by:"El Jack"}
+    ,{quot:"Me vieron con cara de ovulo porque estoy rodeado de puros mecos",by:"El Victor L."}
+    ,{quot:"Cargueme el tren y las 1000 vergas",by:"El Vic"}
+    ,{quot:"Esta bien que este grande y aguado pero no cabe toda" , by:"Los Vics"}
+    ,{quot:"Tiene sentido anal especializado",by:"El Victor L."}
+    ,{quot:"El Sentido anacdido",by:"El Jack"}
+    ,{quot:"El Jack - Imprime el Query <br/> El Paco - No tengo impresora",by:""}
+    ,{quot:"Tengo un ticket que se cierra a las 11 pinches y media",by:"El Victor L. - 06/09/2017"}
+    ,{quot:"La Hermione Ranger",by:"El Jack - 06/09/2017"}
+    ,{quot:"Las papas baby",by:"El Victor L. - 06/09/2017"}
+    ,{quot:"Me estoy acocinando",by:"El Victor L. - 06/09/2017"}
+    ,{quot:"El Mango - Te andaban buscando Ara, pero no conteste <br/> La Aracely - ¿y que te dijeron?",by:"(x3) - 06/09/2017"}
+    ,{quot:"Unas cosas Hardcore Hardcoreras",by:"El Mango - 06/09/2017"}
+    ,{quot:"El disco mas duro",by:"La Aracely - 06/09/2017"}
+    ,{quot:"El Jack casi abujera el vidrio",by:"El Victor L. - 07/09/2017"}
+    ,{quot:"Tendras que callar mi silencio",by:"La Aracely. - 07/09/2017"}
+    ,{quot:"Ahora el Jacko soy yo y yo soy el Jacko",by:"El Vic - 08/09/2017"}
+    ,{quot:"Yo soy Dell os Patriotas",by:"El Erick - 08/09/2017"}
+    ,{quot:"Si hago los mismos movimientos en el Rubik llegare a donde mismo",by:"El Paco - 08/09/2017"}
+    ,{quot:"Disculpame por ser una persona humana que se resfria",by:"La Estelita - 08/09/2017"}
+    ,{quot:"El Chafa the Hutt",by:"El Victor L."}
+    ,{quot:"Masturbación psiquiátrica",by:"El Jack - 11/09/2017"}
+    ,{quot:"Esa va para la película",by:"El Armando - 12/09/2017"}
+    ,{quot:"Tutankamon y yo tan camon",by:"El Jack - 12/09/2017"}           
+    ,{quot:"Tutankamon y yo tan camote",by:"El Armando - 12/09/2017"}
+    ,{quot:"El CS porque me da hueva decir las 2s",by:"El Victor L. - 14/09/2017"}
+    ,{quot:"La chat",by:"El Victor L. - 14/09/2017"}
+    ,{quot:"¿Que diHipster?",by:"El Jack - 14/09/2017"}
+    ,{quot:"El cuero estomacudo",by:"El Victor L. - 14/09/2017"}
+    ,{quot:"Es sexo con sexo masculino",by:"El Victor L. - 14/09/2017"}
+    ,{quot:"Furia Administrativa",by:"La Estelita - 15/09/2017"}
+    ,{quot:"¿Es el letrero que tiene la V en vertical?",by:"El Instalador - 15/09/2017"}
+    ,{quot:"La dientadura perfecta",by:"El Jack - 18/09/2017"}
+    ,{quot:"Lady Google",by:"El Jack - 18/09/2017"}
+    ,{quot:"Salio de su lugar o de la Oficina",by:"La Aracely - 18/09/2017"}
+    ,{quot:"Un corazón chichudo",by:"El Chuy - 19/09/2017"}
+    ,{quot:"Si te quiere volvera si no nunca lo fue",by:"La Aracely - 19/09/2017"}
    ];
 
 function generateColor(){
