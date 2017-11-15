@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Customer Version='1.0'>
+  <Name>Kubo Digital</Name>
+  <CustGroup>1</CustGroup>
+  <CurrencyCode>MXN</CurrencyCode>
+  <CompanyType>1</CompanyType>
+  <RFC>KDI160610N50</RFC>
+  <SalesDistrict>Mexico</SalesDistrict>
+  <SiteId>Sitio</SiteId>
+  <LocationId>Almacen</LocationId>
+  <LineDisc>1</LineDisc>
+  <Addresses>
+    <Address DirLine='1' DirName='Domicilio' DirStreet='Sindicalismo' DirStreetNum='88' DirCity='Montevideo' DirCounty='Uruguay' DirZipCode='11400' DirRoleType='1'></Address>
+    <Address DirLine='2' DirName='Oficina' DirStreet='Acapulco' DirStreetNum='66' DirCity='CDMX' DirCounty='Mexico' DirZipCode='36400' DirRoleType='2'></Address>
+  </Addresses>
+  <Contacts>
+    <Contact ContactLine='Telefono' ContactDescription='Prueba' ContactType='Lead' ContactLocator='+59894587666' ContactLocatorExtension='002' ContactIsPrimary='1' ContactRoleType='customer'></Contact>
+    <Contact ContactLine='Celular' ContactDescription='Prueba' ContactType='Lead' ContactLocator='+599841214' ContactLocatorExtension='' ContactIsPrimary='2' ContactRoleType='customer'></Contact>
+  </Contacts>
+  </Customer>
+
+
+<?php
+
+/* 
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+error_reporting(E_ALL);
+ini_set('display_errors',1);
+//set_time_limit (60);
+
+define("WEB_SERVICE_URL", "http://187.141.228.89:1125/DynamicsAX/WebServiceSalesOrder.asmx?WSDL");
+
+$parametros = "<?xml version='1.0' encoding='UTF-8'?><Customer Version='1.0'>
+  <Name>Kubo Digital</Name>
+  <CustGroup>1</CustGroup>
+  <CurrencyCode>MXN</CurrencyCode>
+  <CompanyType>1</CompanyType>
+  <RFC>KDI160610N50</RFC>
+  <SalesDistrict>Mexico</SalesDistrict>
+  <SiteId>Sitio</SiteId>
+  <LocationId>Almacen</LocationId>
+  <LineDisc>1</LineDisc>
+  <Addresses>
+    <Address DirLine='1' DirName='Domicilio' DirStreet='Sindicalismo' DirStreetNum='88' DirCity='Montevideo' DirCounty='Uruguay' DirZipCode='11400' DirRoleType='1'></Address>
+    <Address DirLine='2' DirName='Oficina' DirStreet='Acapulco' DirStreetNum='66' DirCity='CDMX' DirCounty='Mexico' DirZipCode='36400' DirRoleType='2'></Address>
+  </Addresses>
+  <Contacts>
+    <Contact ContactLine='Telefono' ContactDescription='Prueba' ContactType='Lead' ContactLocator='+59894587666' ContactLocatorExtension='002' ContactIsPrimary='1' ContactRoleType='customer'></Contact>
+    <Contact ContactLine='Celular' ContactDescription='Prueba' ContactType='Lead' ContactLocator='+599841214' ContactLocatorExtension='' ContactIsPrimary='2' ContactRoleType='customer'></Contact>
+  </Contacts>
+  </Customer>";
+$parametros2 = "<?xml version='1.0' encoding='UTF-8'?>
+<Customer Version='1.0'>
+                <Name>Francisco delgado</Name>
+                <CustGroup>MOSTRADOR</CustGroup>
+                <CurrencyCode>MXN</CurrencyCode>
+                <CompanyType>1</CompanyType>
+                <RFC>deef890527sf9</RFC>
+                <SalesDistrict>ATP</SalesDistrict>
+                <SiteId>CHIH</SiteId>
+                <LocationId>CH

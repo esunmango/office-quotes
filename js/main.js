@@ -222,7 +222,7 @@ var json = [{quot:"Me empezaron a rechinar las nalgas",by:"El Victor L."}
     ,{quot:"Te iba a dijir",by:"El Victor L."}
     ,{quot:"Si como lo mueves lo bates, hazme guacamole el chocolate",by:"El Jack"}
     ,{quot:"Cuando conozco a un hombre guapo, me gusta chuparle la verga para ver si sabe igual de bonito que el",by:"El Jack"}
-    ,{quot:"Me vieron con cara de ovulo porque estoy rodeado de puros mecos",by:"El Victor L."}
+    ,{quot:"Me vieron con cara de ovulo porque estoy rodeado de puros mecos",by:"El Victor"}
     ,{quot:"Cargueme el tren y las 1000 vergas",by:"El Vic"}
     ,{quot:"Esta bien que este grande y aguado pero no cabe toda" , by:"Los Vics"}
     ,{quot:"Tiene sentido anal especializado",by:"El Victor L."}
@@ -258,7 +258,52 @@ var json = [{quot:"Me empezaron a rechinar las nalgas",by:"El Victor L."}
     ,{quot:"Salio de su lugar o de la Oficina",by:"La Aracely - 18/09/2017"}
     ,{quot:"Un corazón chichudo",by:"El Chuy - 19/09/2017"}
     ,{quot:"Si te quiere volvera si no nunca lo fue",by:"La Aracely - 19/09/2017"}
-   ];
+    ,{quot:"Entonces no cagues para que traigas algo adentro",by:"El Victor L. - 22/09/2017"}
+    ,{quot:"¿Cuál es la harina de lomo?",by:"El Mango - 22/09/2017"}
+    ,{quot:"Ah ya conozco a Estela, mucho gusto Estela",by:"El Alex - 29/09/2017"}
+    ,{quot:"Kare es lo mismo que Dare pero con C",by:"El Jack - 29/09/2017"}
+    ,{quot:"Masajeandome el Jostick",by:"El Victor L. - 22/09/2017"}
+    ,{quot:"En la escala de vic al paco, ¿ que tan pendejo se ve ?",by:"El Victor - 25/09/2017"}
+    ,{quot:"¿Vamos a verlo aquí o vamos a tener la junta aquí ?",by:"El Chuy - 26/09/2017"}
+    ,{quot:"Taquicardia es cuando comes muchos tacos",by:"El Armando - 27/09/2017"}
+    ,{quot:"El Armando - Yo pense que huela con oler<br/>El Jack - Con h de oler",by:"27/09/2017"}
+    ,{quot:"Marmoleado es cuando le echan mole al mar",by:"El Jack - 28/09/2017"}
+    ,{quot:"Esta desagradable el sabor y la textura pero sabe muy bueno",by:"El Erick - 29/09/2017"}
+    ,{quot:"Yo quiero leer algo que nos culturice más",by:"El Paco - (Hace meses)"}
+    ,{quot:"Si asi lo piden, asi lo piden ",by:"El Paco - 02/10/2017"}
+    ,{quot:"No tengo conexión de ancha banda",by:"El Paco - 05/10/2017"}
+    ,{quot:"Paco de la tormenta de la casa fedex , primero de su nombre, el que no falla, rey de sistemas, rey de los desarrolladores y los primeros hackers. Emperador de la gran deep web, rompedor de fortinets y padre de servidores.",by:"epic"}
+    ,{quot:"Dicen que la estupidez no conoce organigramas",by:"El Chuy - 06/10/2017"}
+    ,{quot:"Va a revivir de la muerte",by:"El Victor - 06/10/2017"}
+    ,{quot:"El masaje tailandes te relaja el esfinter",by:"El Chuy - 06/10/2017"}
+    ,{quot:"Un niño que esta orfanato",by:"El Victor L. - 10/10/2017"}
+    ,{quot:"Estamos hablando de tu órgano frontal",by:"El Victor L. - 10/10/2017"}
+    ,{quot:"No estaba hablando de un bosque de arboles, sino de un bosque de mata",by:"El Armando - 11/10/2017"}
+    ,{quot:"Ese vato ya quiero que se me quite de la vida",by:"El Armando - 12/10/2017"}
+    ,{quot:"¿Cómo se llama la actualización del Ponyta?",by:"El Jack - 18/10/2017 "}
+    ,{quot:"Las venas son las tripas de sangre", by : 'El Victor L. - 19/10/2017'}
+    ,{quot:"Estoy tratando de ver como se escucha el audio",by:"El Oscar - 31/10/2017"}
+    ,{quot:"El Oscar - ¿Porque esta eso ahí? <br/>  La Aracely - Por que no lo he recogido :v",by:""}
+    ,{quot:"Me estoy durmiendo de sueño",by:"El Chuy - 07/11/2017"}
+    ,{quot:"Esfinter, es el maestro de las tortugas ninja ?",by:"El Jack - 08/11/2017 "}
+    ,{quot:"============= <br>| i'm a error |<br> =============<br><br> ─▄████▄▄ ░<br> ▄▀█▀▐└─┐░░<br> █▄▐▌▄█▄┘██<br> └▄▄▄▄▄┘███<br>  ██▒█▒███▀",by:"error"}
+    ,{quot:"De aquí puedo ver tu rareza",by:"La Aracely - 09/11/2017"}
+    ,{quot:"¿Hola Armando cómo te llamas?",by:"El Victor L. - 09/11/2017"}
+    ,{quot:"Demandalo por coprofilia",by:"El Victor L. - 09/11/2017"}
+    ,{quot:"Nuestro bancho de anda",by:"El Alex. - 09/11/2017"}
+    ,{quot:"Pinche cangrena",by:"El Chuy - 10/11/2017"}
+    ,{quot:"Pay de pure",by:"El Chuy - 10/11/2017"}
+    ,{quot:"Hay una vela sabor a café",by:"El Chuy - 10/11/2017"}
+    ,{quot:"El many - Cual es la diferencia entre mermelada y pure ??<br>El armando - La mermelada es de fresa y el pure de papa...",by:""}
+    ,{quot:"Lo único que le critiquiticaria la gerenelizacion nomas",by:"El Jack - 13/11/2017"}
+    ,{quot:"Hijo de tigre, tigrito",by:"El Jack - 13/11/2017"}
+    ,{quot:"Del verbo porosear",by:"El Victor L. - 13/11/2017"}
+    ,{quot:"Pos a que juegamos",by:"El Victor L. - 13/11/2017"}
+     ,{quot:"De que le sirve al hombre tener hambre si se come a si mismo",by:"El mango - 13/11/2017"}
+    ,{quot:"El Oscar - ¿Qué sigue del 2? <br> Dpto de Sistemas - 3!!!",by:"" } 
+    ,{quot:"Tengo algo de experiencia en Servidores Linux, bueno... Yo diría que mucha",by:"El Paco - 15/11/2017"}
+    ,{quot:"El Alex - Vuela, pega y esquiva ♪♫♬ <br> La Ara - Otra ves con su pokemon",by:""}
+];
 
 function generateColor(){
 	var r = Math.floor((Math.random() * 256));
@@ -280,7 +325,27 @@ function load(){
 		var length = json.length;
 		var ran = Math.floor((Math.random() * length));
                 
-               
+               if(json[ran].by === "epic"){
+                    
+                     var audio = new Audio('/js/battle.ogg');
+                    audio.play();
+                    $("body").attr({"style" : "background : url('/img/volcan.jpg');"});
+                    $("#qout").addClass('viking');
+                    $("#qout").html('" '+json[ran].quot+' "');
+                    
+                } else if(json[ran].by === "error"){
+                    
+                     var audio = new Audio('/js/dirty.mp3');
+                     audio.addEventListener('ended', function() {
+                        this.currentTime = 0;
+                        this.play();
+                    }, false);
+                    audio.play();
+                    $("body").attr({"style" : "background : #000"});
+                    $("#qout").addClass('viking');
+                    $("#qout").html(' '+json[ran].quot+' ');
+                    
+                } else {
                 
                 var maxDiam = 400;
                 var circleNum = 20;
@@ -352,6 +417,9 @@ function load(){
                 $("body").attr({"style" : "background : linear-gradient(to top, "+rgb1+", "+rgb2+");"});
 		$("#qout").html('" '+json[ran].quot+' "');
 		$("#by").html(" - "+json[ran].by);
+                
+                }
+
 	
 }
 
