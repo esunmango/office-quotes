@@ -303,6 +303,35 @@ var json = [{quot:"Me empezaron a rechinar las nalgas",by:"El Victor L."}
     ,{quot:"El Oscar - ¿Qué sigue del 2? <br> Dpto de Sistemas - 3!!!",by:"" } 
     ,{quot:"Tengo algo de experiencia en Servidores Linux, bueno... Yo diría que mucha",by:"El Paco - 15/11/2017"}
     ,{quot:"El Alex - Vuela, pega y esquiva ♪♫♬ <br> La Ara - Otra ves con su pokemon",by:""}
+    ,{quot:"lo vio igual de indEgente",by:"El Victor - 15/11/2017"}
+    ,{quot:"Si el animal ya esta muerto ni como revivirlo",by:"El Victor L. - 15/11/2017"}
+    ,{quot:"retrajo, es reatrer conjugado con prepucio",by:"El Victor L. - 15/11/2017"}
+    ,{quot:"se retracto con una foCto",by:"El Jack - 15/11/2017"}
+    ,{quot:"Retractate con una caCmara",by:"El Jack - 15/11/2017"}
+    ,{quot:"Se me retracto el prepucio",by:"El Victor L. - 15/11/2017"}
+    ,{quot:"<Hablando de Abejorros>Yo no se de biología marina",by:"El Armando 16/11/2017"}
+    ,{quot:"La curiosidad le hizo ver gemidos al gato",by:"El Victor L. - 16/11/2017"}
+    ,{quot:"No necesitas todo para ser feliz, porque ya tienes todo para ser feliz",by:"La modelo de la salsas"}
+    ,{quot:"<b>El Armando</b> - Hay me saludas al Mango <br/> <b>Paco</b> - Mejor te saludo el platano",by:""}
+    ,{quot:"Esa es piraca",by:"El Victor L. - 16/11/2017"}
+    ,{quot:"Mete el refri al refri",by:"El Oscar - 21/11/2017"}
+    ,{quot:"Eentonces rayado con 'YE' es nomas para rayo?" ,by:"El Victor L. - 21/11/2017"}
+    ,{quot:"Más sabe el diablo por chabelo, que por diablo" ,by:"El Jack - 22/11/2017"}
+    ,{quot:"wey te va a 'dar' una pinche hernia",by:"El Victor L. - 23/11/2017"}
+    ,{quot:"Olía a fruta prohibida",by:"El Victor L. - 23/11/2017"}
+    ,{quot:"Que chido tu Charizard !! ( Era Shen Long )",by:"El Mike - 27/11/2017"}
+    ,{quot:"Cual es tu bici mango? (Era la unica bici en el estacionamiento)",by:"El Mike - 29/11/2017"}
+    ,{quot:"Tengo sobrepeso genital",by:"El Victor L. - 30/11/2017"}
+    ,{quot:"Con que se quita el desestres??",by:"El Armando - 30/11/2017"}
+    ,{quot:"voy a festejar aniversario de quince dias por dejar de pistear",by:"El Victor L. - 30/11/2017"}
+    ,{quot:"Searching for Nemo",by:"El Victor L. - 30/11/2017"}
+    ,{quot:"De la vista o el oido prefiero perder el habla",by:"El Victor L. - 1/12/2017"}
+    ,{quot:"Derechos registrados" ,by:"El Jack - 1/12/2017"}
+    ,{quot:"Ara ya esta ocupada, de echo pre-ocupada :v" ,by:"El Mango - 4/12/2017"}
+    ,{quot:"Si lo metieron a la policia",by:"El Victor L. - 5/12/2017"}
+    ,{quot:"Tiene violencia intravenosa",by:"El Victor H. - 5/12/2017"}
+    ,{quot:"un GigaCaballo son 1024 caballos de Fuerza",by:"El Victor L. - 6/12/2017"}
+    ,{quot:"Casualmente toca la casualidad",by:"El Paco. - 6/12/2017"}
 ];
 
 function generateColor(){
