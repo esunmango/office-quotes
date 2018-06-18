@@ -1,4 +1,4 @@
-// ,{quot:"",by:""}
+﻿// ,{quot:"",by:""}
 var json = [{quot:"Me empezaron a rechinar las nalgas",by:"El Victor L."}
 ,{quot:"Te veo, te escucho pero no te pongo atención",by:"El Paco"}
 ,{quot:"Tanto peca el que mata la vaca como el que es homosexual",by:"El Jack"}
@@ -332,6 +332,7 @@ var json = [{quot:"Me empezaron a rechinar las nalgas",by:"El Victor L."}
     ,{quot:"Tiene violencia intravenosa",by:"El Victor H. - 5/12/2017"}
     ,{quot:"un GigaCaballo son 1024 caballos de Fuerza",by:"El Victor L. - 6/12/2017"}
     ,{quot:"Casualmente toca la casualidad",by:"El Paco. - 6/12/2017"}
+,{quot:"Forzosamente a huevo",by:"El Paco. - 18/6/2018"}
     ,{quot:"Necesito que me des una loción de espalda",by:"El Victor L. - 12/12/2017"}
     ,{quot:"Ya me cambio a ti",by:"El Chuy - 13/12/2017"}
     ,{quot:"Voy a interpretar su silencio sin subtitulos",by:"El Victor L. - 13/12/2017"}
