@@ -332,6 +332,38 @@ var json = [{quot:"Me empezaron a rechinar las nalgas",by:"El Victor L."}
     ,{quot:"Tiene violencia intravenosa",by:"El Victor H. - 5/12/2017"}
     ,{quot:"un GigaCaballo son 1024 caballos de Fuerza",by:"El Victor L. - 6/12/2017"}
     ,{quot:"Casualmente toca la casualidad",by:"El Paco. - 6/12/2017"}
+    ,{quot:"Necesito que me des una loción de espalda",by:"El Victor L. - 12/12/2017"}
+    ,{quot:"Ya me cambio a ti",by:"El Chuy - 13/12/2017"}
+    ,{quot:"Voy a interpretar su silencio sin subtitulos",by:"El Victor L. - 13/12/2017"}
+    ,{quot:"A todos tiros quiere el ano en el recto",by:"El Chuy - 13/12/2017"}
+    ,{quot:"Desrompido",by:"El Jack - 14/12/2017 "}
+    ,{quot:"Desabrido es que no tiene sabor o que no esta abierto?",by:"El Victor L. - 14/12/2017"}
+    ,{quot:"Va pa lejos",by:"El Mike - 14/12/2017"}
+    , {quot: "Ni que estornudara por la cola", by: "El Victor L. - 9/01/2018"}
+    , {quot: "El nombre del 'ano' viene del Latín 'Anusis', que significa 'Donde se le enrosca a uno el cuero' ", by: "El Victor L. - 4/01/2018"}
+    , {quot: "LLega una pareja... un vato y tres morras", by: "El Armando - 19/12/2017"}
+    , {quot: "uroboros... son dos elementos de la tabla periodica, el oro y el boro ", by: "El Victor L. - 19/12/2017"}
+    , {quot: "No se paro a detener ", by: "El Chuy  - 3/01/2018"}
+    , {quot: "Bicople", by: "El Victor L. - 14/12/2017"}
+    , {quot: "La Sandijuela ", by: "El Chuy  - 27/12/2017"}
+    , {quot: "La Sandijuela es de las Sandias", by: "El Jack - 27/12/2017"}
+    , {quot: "Sistema Inmunitario  ", by: "El Jack  - 3/01/2018"}
+    , {quot: "Posicion fecal ", by: "El Chuy  - 23/01/2018"}
+    , {quot: "Mike - Se que hacer en caso de un accidente aéreo<br>Vic - Yo también, uso el paracaídas, a veda", by: "22/01/2018"}
+    , {quot: "No hemos tenido muchos halagos ultimamente ", by: "servicio al cliente del agua - 18/01/2018"}
+    , {quot: "Matanmen ", by: "El Victor L. - 18/12/2017"}
+    , {quot: "Si al decir SAP, es igual a Dynamics o como lo conocen ustedes es el Web Service ", by: "El Paco - 23/12/2017"}
+    ,{quot:"El cielo no tiene color, se lo da el agua",by:"El Mike - 26/12/2017"}
+    ,{quot:"Si viajo en el tiempo y como pura lechuga, altero mi futuro y seria gay",by:"El Mike - 26/12/2017"}
+     ,{quot:"Estoy jugando en lo que ya estamos dormidos",by:"El Oscar - 26/12/2017"}
+     ,{quot: "quieres ser miembro o miembra", by: "El Chuy. - 4/01/2018"}
+     ,{quot: "cuando hace frio no da señal a moviestar", by: "El Paco. - 4/01/2018"}
+     ,{quot: "El nombre del 'ano' viene del Latín 'Anusis', que significa 'Donde se le enrosca a uno el cuero'", by: "El Victor L. - 04/01/2018"}
+     ,{quot: "Tiene cara de desvelada sexual", by: "El Packo - 13/02/2018"}
+    , {quot: "Hoy es el día en el que el mundo se triplica, porque de dos nacen tres", by: "El Packo - 14/02/2018"}
+     ,{quot: "Hazme un broyo (intentaba decir blow job)", by: "El Alex. - 19/02/2018"}
+     , {quot: "El primero de Febrero de este mes ", by: "El Victor L. - 19/02/2018"}
+     ,{quot:"Solo te puedes aventar en un paracaidas solo una vez ",by:"El Packo - 19/02/2018"}
 ];
 
 function generateColor(){
