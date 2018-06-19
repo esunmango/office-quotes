@@ -365,6 +365,7 @@ var json = [{quot:"Me empezaron a rechinar las nalgas",by:"El Victor L."}
      ,{quot: "Hazme un broyo (intentaba decir blow job)", by: "El Alex. - 19/02/2018"}
      , {quot: "El primero de Febrero de este mes ", by: "El Victor L. - 19/02/2018"}
      ,{quot:"Solo te puedes aventar en un paracaidas solo una vez ",by:"El Packo - 19/02/2018"}
+     ,{quot:"Solo te puedes aventar en un paracaidas solo una vez ",by:"El Packo - 19/02/2018"}
 ];
 
 function generateColor(){
